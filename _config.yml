@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -12,6 +13,7 @@ title                    : "Logan Knudsen"
 title_separator          : "-"
 name                     : &name "Logan Knudsen"
 description              : &description "Personal Website"
+theme                    : "dark"
 url                      : https://loganpknudsen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/loganpknudsen.github.io"
