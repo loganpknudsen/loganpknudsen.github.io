@@ -11,5 +11,5 @@ My name is Logan Knudsen and I am a physical oceanographer and mathematical phys
 - Physical Oceanography
 - Geophysical Fluid Dynamics
 - Fluid Mechanics
-- Applied Mathematics
-If you reach to contact me, my email is knudsen@umd.edu
+- Applied Mathematics \\
+If you wish to contact me, my email is knudsen@umd.edu
