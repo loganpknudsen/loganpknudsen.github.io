@@ -1,0 +1,32 @@
+/* Body and background */
+body, .site, .page, .post, .sidebar, .header, .footer {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #1e1e1e !important;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+
+/* Links */
+a, a:visited {
+  color: #bb86fc !important;
+}
+
+/* Code blocks */
+.highlight, pre {
+  background-color: #1e1e1e !important;
+  color: #f8f8f2 !important;
+}
+
+/* Footer */
+.footer {
+  background-color: #1e1e1e !important;
+  color: #cccccc !important;
+}
