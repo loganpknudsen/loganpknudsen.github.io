@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Logan Knudsen and I am a physical oceanographer and mathematical physicist. My main research interests include:
-- Physical Oceanography
+My name is Logan Knudsen and I am a mathematical physicist and physical oceanographer. My main research interests include:
+
 - Geophysical Fluid Dynamics
-- Fluid Mechanics
 - Applied Mathematics
+- Fluid Mechanics
+- Physical Oceanography
+- Meteorology
+- Climate Science
+
   
 If you wish to contact me, my email is knudsen@umd.edu
