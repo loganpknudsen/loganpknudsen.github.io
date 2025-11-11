@@ -30,24 +30,4 @@ a, a:visited {
   background-color: #1e1e1e !important;
   color: #cccccc !important;
 }
-/* */
-/* Dark header background */
-.site-header {
-    background-color: #121212 !important; /* matches dark body */
-}
 
-/* Header site title and nav links */
-.site-header .site-title,
-.site-header .site-nav a {
-    color: #ffffff !important;
-}
-
-/* Optional: hover color for links */
-.site-header .site-nav a:hover {
-    color: #bb86fc !important;
-}
-
-/* Optional: if you have a tagline */
-.site-header .site-tagline {
-    color: #cccccc !important;
-}
