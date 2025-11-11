@@ -1,5 +1,5 @@
 /* Body and background */
-body, .site, .page, .post, .sidebar, .header, .footer {
+body, .site, .page, .post, .sidebar, .site-header, .site-footer {
   background-color: #121212 !important;
   color: #e0e0e0 !important;
 }
