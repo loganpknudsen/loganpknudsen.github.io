@@ -1,5 +1,10 @@
-/* Body and background */
-body, .site, .page, .post, .sidebar, .site-header, .site-footer {
+/* ================================
+   AcademicPages Dark Mode CSS
+   Fully targets header, sidebar, content, footer, and code blocks
+   ================================ */
+
+/* Body and main content */
+body, .site, .page, .post, .content {
   background-color: #121212 !important;
   color: #e0e0e0 !important;
 }
@@ -7,27 +12,72 @@ body, .site, .page, .post, .sidebar, .site-header, .site-footer {
 /* Sidebar */
 .sidebar {
   background-color: #1e1e1e !important;
+  color: #e0e0e0 !important;
 }
 
-/* Headers */
+/* Header */
+body .site-header,
+body .site-header-wrapper {
+  background-color: #121212 !important;
+}
+
+/* Header text and nav links */
+body .site-header .site-title,
+body .site-header .site-nav a {
+  color: #ffffff !important;
+}
+
+body .site-header .site-nav a:hover {
+  color: #bb86fc !important;
+}
+
+/* Optional tagline in header */
+body .site-header .site-tagline {
+  color: #cccccc !important;
+}
+
+/* Headings in posts/pages */
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff !important;
 }
 
-/* Links */
+/* Standard links */
 a, a:visited {
   color: #bb86fc !important;
 }
 
+/* Links on hover */
+a:hover {
+  color: #e0b0ff !important;
+}
+
 /* Code blocks */
-.highlight, pre {
+.highlight, pre, code {
   background-color: #1e1e1e !important;
   color: #f8f8f2 !important;
+  border-radius: 4px;
+  padding: 0.25em 0.5em;
 }
 
 /* Footer */
-.footer {
+.footer, .site-footer {
   background-color: #1e1e1e !important;
   color: #cccccc !important;
 }
+
+/* Tables (optional: match dark theme) */
+table {
+  background-color: #1a1a1a !important;
+  color: #e0e0e0 !important;
+}
+
+th, td {
+  border-color: #333333 !important;
+}
+
+/* Images: optional border */
+img {
+  border: 1px solid #333 !important;
+}
+
 
