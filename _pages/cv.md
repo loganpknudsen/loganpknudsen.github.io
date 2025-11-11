@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-show_in_nav: false
+nav: false
 author_profile: true
 redirect_from:
   - /resume
