@@ -1,83 +1,39 @@
-/* ================================
-   AcademicPages Dark Mode CSS
-   Fully targets header, sidebar, content, footer, and code blocks
-   ================================ */
-
 /* Body and main content */
-body, .site, .page, .post, .content {
+body {
   background-color: #121212 !important;
   color: #e0e0e0 !important;
 }
 
-/* Sidebar */
-.sidebar {
-  background-color: #1e1e1e !important;
+.site, .page, .post, .content {
+  background-color: #121212 !important;
   color: #e0e0e0 !important;
 }
 
-/* Header */
-body .site-header,
-body .site-header-wrapper {
+/* Header - target common AcademicPages/Minimal Mistakes classes */
+.masthead,
+.site-header,
+.site-masthead,
+.page__header,
+.greedy-nav {
   background-color: #121212 !important;
 }
 
-/* Header text and nav links */
-body .site-header .site-title,
-body .site-header .site-nav a {
+/* Header inner wrapper */
+.masthead__inner-wrap,
+.site-header-wrapper {
+  background-color: #121212 !important;
+}
+
+/* Header navigation */
+.greedy-nav a,
+.site-title,
+.site-nav a,
+.masthead__menu-item {
   color: #ffffff !important;
 }
 
-body .site-header .site-nav a:hover {
+.greedy-nav a:hover,
+.site-nav a:hover,
+.masthead__menu-item:hover {
   color: #bb86fc !important;
 }
-
-/* Optional tagline in header */
-body .site-header .site-tagline {
-  color: #cccccc !important;
-}
-
-/* Headings in posts/pages */
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff !important;
-}
-
-/* Standard links */
-a, a:visited {
-  color: #bb86fc !important;
-}
-
-/* Links on hover */
-a:hover {
-  color: #e0b0ff !important;
-}
-
-/* Code blocks */
-.highlight, pre, code {
-  background-color: #1e1e1e !important;
-  color: #f8f8f2 !important;
-  border-radius: 4px;
-  padding: 0.25em 0.5em;
-}
-
-/* Footer */
-.footer, .site-footer {
-  background-color: #1e1e1e !important;
-  color: #cccccc !important;
-}
-
-/* Tables (optional: match dark theme) */
-table {
-  background-color: #1a1a1a !important;
-  color: #e0e0e0 !important;
-}
-
-th, td {
-  border-color: #333333 !important;
-}
-
-/* Images: optional border */
-img {
-  border: 1px solid #333 !important;
-}
-
-
