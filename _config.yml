@@ -20,7 +20,11 @@ repository               : "academicpages/loganpknudsen.github.io"
 theme: "academicpages"   # or whatever theme your repo uses
 dark_mode:
   enabled: true
-  default: true   # false = light mode by default, true = dark mode by default
+  default: true  # false = light mode by default, true = dark mode by default
+
+highlighter: rouge
+rouge:
+  theme: monokai
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
