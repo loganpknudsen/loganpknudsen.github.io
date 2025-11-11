@@ -27,7 +27,7 @@ repository               : "academicpages/loganpknudsen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "bio-photo.jpeg"
   name             : "Logan Knudsen"
   pronouns         : "he/him"  
   bio              : "Logan Knudsen is a Mathematical Physicist and Physical Oceanographer."
