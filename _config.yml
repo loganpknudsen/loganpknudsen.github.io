@@ -17,9 +17,9 @@ url                      : https://loganpknudsen.github.io # the base hostname &
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/loganpknudsen.github.io"
 
-highlighter: rouge
-rouge:
-  theme: monokai
+# highlighter: rouge
+# rouge:
+#   theme: monokai
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
