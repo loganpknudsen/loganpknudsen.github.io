@@ -16,6 +16,8 @@ My name is Logan Knudsen and I am a mathematical physicist and physical oceanogr
 - Meteorology
 - Climate Science
 
-If you wish to contact me, my email is knudsen@umd.edu
+If you wish to contact me, my email is knudsen@umd.edu. My full CV is below:
+
+<iframe src="/files/CV_Knudsen_Logan_Full.pdf" width="100%" height="800px"></iframe>
 
 Outside of academics and research, I have a deep passion for music, enjoy reading and am a longtime runner. I also enjoy dancing Lindy Hop on occasion.
