@@ -13,7 +13,7 @@ main:
   #   url: /portfolio/
         
   - title: "Chaos Gallery"
-    url: /year-archive/
+    url: /chaos-gallery/
     
   # - title: "CV"
   #   url: /cv/
