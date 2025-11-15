@@ -1,6 +1,6 @@
 ---
 title: 'Chaos Gallery #1'
-date: 2025-11-13
+date: 2025-11-14
 permalink: /posts/2025/11/chaos-gallery-1/
 tags:
   - chaos gallery
