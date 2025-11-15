@@ -11,6 +11,10 @@ tags:
 Parameter Space for ODEs
 ---
 
-I have below the parameter space for
+I have below the parameter space for the damped oscillator differential equation
 
 ![Parameter Space](/images/chaos_gallery_1/parameter_space.jpeg)
+
+I wrote a jupter notebook where I calculate the parameter space for a couple of ODEs with solutions. I also calculated the numerical solutions of the ODEs for comparison. 
+If you are interested I have a pdf of jupyter notebook below, along with a link to download the jupyter notebook. Please enjoy!
+
